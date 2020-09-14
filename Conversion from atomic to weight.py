@@ -33,8 +33,8 @@ def lcc (composition):
     return re.findall('[A-Z][a-z]?|[0-9]+\.?[0-9]+|\.[0-9]+|[0-9]+', composition)
 
 
-#The comp_dict function transform the list created by lcc into a dictionary
-#{Element: composition}
+#The comp_dict function converts the list created by the lcc function into a dictionary
+#Format: {Element1: composition1, ...}
 #comp_dict: composition dictionary
 def comp_dict(composition):
     #use lcc to parse the composition and transform it into a list
