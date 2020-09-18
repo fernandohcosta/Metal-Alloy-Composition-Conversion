@@ -28,9 +28,8 @@ This facilitates the insertion of compositions like this: AgCu.
 Other examples include: 
 Ti1Nb2 for an atomic fraction composition.
 Mg30W70 for an atomic or weight percent composition.
-Mg10Nb10W10Ti10Fe10Mo10Mn10Al10Si10Ta10. 
+There is no limit of elements, for example: Mg10Nb10W10Ti10Fe10Mo10Mn10Al10Si10Ta10. 
 
-There is no limit of elements.
 Decimal places are accepted in any type of composition inserted.
 
 
