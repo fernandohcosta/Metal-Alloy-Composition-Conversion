@@ -189,8 +189,8 @@ while i == True:
         print('Compositions must be written in the following manner:')
         print('Metal one followed by its amount, metal two followed by its amount and so on.')
         print('Do not use spaces or other characters.')
-        print('Example 1: Ti1Nb2 for a atomic fraction composition.')
-        print('Example 2: Mg30W70 for a atomic or weight percent composition.')
+        print('Example 1: Ti1Nb2 for an atomic fraction composition.')
+        print('Example 2: Mg30W70 for an atomic or weight percent composition.')
         print('Example 3: Mg10Nb10W10Ti10Fe10Mo10Mn10Al10Si10Ta10. There is no limit of elements.')
         i = check_exit()       
     elif a == 'e' or a == 'E':
